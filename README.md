@@ -9,7 +9,7 @@ Description:
 
 
 Graphs from Source:
-
+| | |
 | --- | --- |
 |![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISED.png?raw=true)|![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISEDRESTRICTED.png?raw=true)|
 |![FNF](/Hypothesis1/Graphs/POPULATION_R_DENSITYAGE.png?raw=true)           |![FNF](/Hypothesis1/Graphs/POPULATION_R_DIST.png?raw=true)                           |
