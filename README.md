@@ -6,11 +6,17 @@ Submitted 27/05/2018 Semester 1 of Year 1.
   
 Description:  
   Python Code for ABS Census Processing and Analysis. Including theory work and output graphs.
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+ 
  
 Graphs from Source:
-|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISED.png?raw=true)|![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISEDRESTRICTED.png?raw=true)|
-|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISED.png?raw=true)
+![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISEDRESTRICTED.png?raw=true)
+
 ![FNF](/Hypothesis1/Graphs/POPULATION_R_DENSITYAGE.png?raw=true)
 
 ![FNF](/Hypothesis1/Graphs/POPULATION_R_DIST.png?raw=true)
