@@ -10,15 +10,12 @@ Description:
 
 Graphs from Source:
 
-| Command | Description |
+|  |  |
 | --- | --- |
-|![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISED.png?raw=true)|
-![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISEDRESTRICTED.png?raw=true)|
+|![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISED.png?raw=true)|![FNF](/Hypothesis1/Graphs/POPULATION_R_AGEDRADIALCATEGORISEDRESTRICTED.png?raw=true)|
 
-|![FNF](/Hypothesis1/Graphs/POPULATION_R_DENSITYAGE.png?raw=true)|
+|![FNF](/Hypothesis1/Graphs/POPULATION_R_DENSITYAGE.png?raw=true)|![FNF](/Hypothesis1/Graphs/POPULATION_R_DIST.png?raw=true)|
 
-![FNF](/Hypothesis1/Graphs/POPULATION_R_DIST.png?raw=true)|
-![FNF](/Hypothesis1/Graphs/POPULATION_R_POA.png?raw=true)|
+|![FNF](/Hypothesis1/Graphs/POPULATION_R_POA.png?raw=true)|![FNF](/Hypothesis1/Graphs/POPULATION_R_RESTRICTEDDISCATEGORISED.png?raw=true)|
 
-![FNF](/Hypothesis1/Graphs/POPULATION_R_RESTRICTEDDISCATEGORISED.png?raw=true)|
-![FNF](/Hypothesis1/Graphs/POPULATION_R_RESTRICTEDDIST.png?raw=true)|
+|![FNF](/Hypothesis1/Graphs/POPULATION_R_RESTRICTEDDIST.png?raw=true)|...|
